@@ -4,4 +4,4 @@ This [Paper](doc/paper.pdf) discusses computational methods on a class of ellipt
 
 - [1-d](src/hjb_1d_v01.ipynb): This includes both tabular methods and neural netowrk approach on 1-d computations.
 - [2-d tabular](src/hjb_2d_tabular_v01.ipynb): This includes tabular method on 2-d computations.
-- 
+- [2-d nn](https://github.com/songqsh/capstone20-1/blob/master/README.md): This includes neural network approach on 2-d computations.
