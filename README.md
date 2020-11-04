@@ -5,3 +5,4 @@ This [paper](doc/lcss.pdf) discusses computational methods on a class of ellipti
 - [1-d](src/hjb_1d_v01.ipynb): This includes both tabular methods and neural netowrk approach on 1-d computations.
 - [2-d tab](src/hjb_2d_tabular_v01.ipynb): This includes tabular methods on 2-d computations.
 - [2-d nn](https://github.com/songqsh/capstone20-1/blob/master/README.md): This includes neural network approach on 2-d computations.
+- [other tests by students](https://github.com/wqiu96/summer_project)
